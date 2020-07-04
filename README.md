@@ -13,13 +13,11 @@
 - [Como abrir o projeto](#-como-abrir-o-projeto)
 - [Agradecimentos](#-agradecimentos)
 
----
 
 ## 📋 Sobre
 
 O app **mata-mosquito** é um jogo criado dentro do curso [Desenvolvimento Web Completo - 2020](https://www.udemy.com/course/web-completo/), com intuito de colocar em prática os conteúdos estudados na seção **JavaScript**.
 
----
 
 ## 💡 Conhecimentos aplicados
 **JavaScript** Intermediário:
@@ -27,7 +25,6 @@ O app **mata-mosquito** é um jogo criado dentro do curso [Desenvolvimento Web C
 - Manipulaçao do DOM
 - Manipulação do BOM
 
----
 
 ## 🚀 Tecnologias utilizadas
 - Vanilla Javascript (Javascript puro)
@@ -41,7 +38,6 @@ O app **mata-mosquito** é um jogo criado dentro do curso [Desenvolvimento Web C
 - Faça o download dos arquivos
 - Abra o index.html
 
----
 
 ## 🙏 Agradecimentos
 
