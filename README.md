@@ -17,7 +17,7 @@
 
 ## 📋 Sobre
 
-O app **mata-mosquito** é um jogo criado dentro do curso [Desenvolvimento Web Completo - 2020](https://www.udemy.com/course/web-completo/), com intuito de colocar em prática os conteúdos estudados na seção **JavasCript**.
+O app **mata-mosquito** é um jogo criado dentro do curso [Desenvolvimento Web Completo - 2020](https://www.udemy.com/course/web-completo/), com intuito de colocar em prática os conteúdos estudados na seção **JavaScript**.
 
 ---
 
