@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Fim de Jogo</title>
+
+    <!-- Bootstrap CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <!-- Folha de estilo css -->
+    <link rel="stylesheet" href="estilo.css">
+
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- imagem de game over -->
+        <div class="row">
+            <div class="col">
+                <div class="d-flex justify-content-center">
+                    <img src="imagens/game_over.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <!-- botao para reiniciar a partida -->
+        <div class="row">
+            <div class="col">
+                <div class="d-flex justify-content-center">
+                    <button type="button" 
+                            class="btn btn-dark btn-lg"
+                            onclick="window.location.href = 'index.html' "
+                            >
+                            Reiniciar
+                    </button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    
+</body>
+</html>

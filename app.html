@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Mata-Mosquito</title>
+
+    <link rel="stylesheet" href="estilo.css">
+    <script src="jogo.js"></script>
+
+</head>
+
+<body onresize="ajustarTamanhoPalcoJogo()">
+
+    <div class="painel">
+        <div class="vidas">
+            <img id="v1" src="imagens/coracao_cheio.png" alt="">
+            <img id="v2" src="imagens/coracao_cheio.png" alt="">
+            <img id="v3" src="imagens/coracao_cheio.png" alt="">
+        </div>
+
+        <div class="cronometro">
+            Tempo restante:
+            <span id="cronometro"></span>
+        </div>
+    </div>
+
+    <script>
+        // atribuicao necessaria para o cronometro iniciar o decremento exatamente no valor definido em TEMPO
+        document.getElementById('cronometro').innerHTML = tempo
+
+        // executa a funcao <posicaoRandomica> a cada intervalo de 1000ms
+        var criaMosquito = setInterval (function() {
+            posicaoRandomica()
+        }, criaMosquitoTempo)
+    </script>
+    
+</body>
+</html>
