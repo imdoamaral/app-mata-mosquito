@@ -20,7 +20,7 @@ O app **mata-mosquito** é um jogo criado dentro do curso [Desenvolvimento Web C
 
 
 ## 💡 Conhecimentos aplicados
-**JavaScript** Intermediário:
+**JavaScript** intermediário
 - Eventos
 - Manipulaçao do DOM
 - Manipulação do BOM
