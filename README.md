@@ -32,7 +32,7 @@ O app **mata-mosquito** é um jogo criado dentro do curso [Desenvolvimento Web C
 - CSS
 - Bootstrap
 
----
+
 
 ## 📁 Como abrir o projeto
 - Faça o download dos arquivos
