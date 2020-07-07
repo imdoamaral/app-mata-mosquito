@@ -1,11 +1,7 @@
-<h1 align="center">
-    <img src="imagens/game.png" width="30%">
-</h1>
+## Demo
 
-<h1>
-    <img src="imagens/apresentacao.gif">
-</h1>
-
+<img src="imagens/apresentacao.gif">
+    
 ## Índice
 - [Sobre](#-sobre)
 - [Conhecimentos aplicados](#-conhecimentos-aplicados)
