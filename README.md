@@ -18,7 +18,7 @@ O app **mata-mosquito** é um jogo criado dentro do curso [Desenvolvimento Web C
 ## 💡 Conhecimentos aplicados
 **JavaScript** nível iniciante
 - Eventos
-- Manipulaçao do DOM
+- Manipulação do DOM
 - Manipulação do BOM
 
 
@@ -39,4 +39,4 @@ O app **mata-mosquito** é um jogo criado dentro do curso [Desenvolvimento Web C
 
 - Aos professores do curso [Desenvolvimento Web Completo - 2020](https://www.udemy.com/course/web-completo/)
 
-- À Daniele Leão Evangelista pelo ótimo vídeo ["como criar um README"](https://www.youtube.com/watch?v=Gcb60rPbnKA&list=LL55cCksWKKyAoCbO5G5iqHQ&index=1)
+- [@danileao](https://github.com/danileao) pelo ótimo vídeo ["como criar um README"](https://www.youtube.com/watch?v=Gcb60rPbnKA&list=LL55cCksWKKyAoCbO5G5iqHQ&index=1)
